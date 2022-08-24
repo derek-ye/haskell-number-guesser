@@ -1,0 +1,16 @@
+/Users/derek/haskell-number-guesser/package.yaml:
+  hash: 9740c930820c4fd6a4e1143171113d2ade7621a488379fb832e0c80b481a6000
+/Users/derek/haskell-number-guesser/haskell-number-guesser.cabal:
+  hash: 9d1e6a73f3054046275ac4f8304e495a3fedd4efe42ded8dc86782fecd26899c
+? /Users/derek/haskell-number-guesser/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/haskell-number-guesser-test/autogen/Paths_haskell_number_guesser.hs
+: hash: daddd83686a08d1824220e352aaefff9985289fe356c8c1da860e64f26566fb1
+? /Users/derek/haskell-number-guesser/.stack-work/dist/aarch64-osx/Cabal-3.4.1.0/build/haskell-number-guesser-test/autogen/cabal_macros.h
+: hash: def0632a17c9bea24910a5d5d9bc128ea376cfd9729e6a6bf8215f8dc12d126c
+/Users/derek/haskell-number-guesser/test/Spec.hs:
+  hash: ef8d1c0c14bd7951b5db43ad0bc2b1c46ef3c248d621c644d3ddb98bc2a08ecc
+/Users/derek/.stack/programs/aarch64-osx/ghc-9.0.2/lib/ghc-9.0.2/lib/aarch64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/derek/haskell-number-guesser/CHANGELOG.md:
+  hash: c01292f956ed3e114bf51945dd6e4a7d2f83939f7a194b1f84a59c1fdf8375d3
+/Users/derek/haskell-number-guesser/README.md:
+  hash: e9be1dc645f3065bbb87b165105459649ea2d57a0b1d6c908423b78aa8880c9b
